@@ -1,0 +1,45 @@
+Test efficiency: Loading data from mongoDB vs loading data from json file: 
+****************************************************************************************************
+This is the schema in original json review file
+****************************************************************************************************
+8.75956010818 This is the time cost for loading data from review json file.
+****************************************************************************************************
+This is the schema in original mongoDB review collection
+****************************************************************************************************
+0.485893964767 This is the time cost for loading data from MongoDB review.
+Test efficiency: Loading data from mongoDB vs loading data from json file: 
+****************************************************************************************************
+This is the schema in original json review file
+****************************************************************************************************
+0.632100105286 This is the time cost for loading data from business json file.
+****************************************************************************************************
+This is the schema in original mongoDB review collection
+****************************************************************************************************
+0.0248420238495 This is the time cost for loading data from MongoDB business.
+Test efficiency: Loading data from mongoDB vs loading data from json file: 
+****************************************************************************************************
+This is the schema in original json review file
+****************************************************************************************************
+0.308743000031 This is the time cost for loading data from checkin json file.
+****************************************************************************************************
+This is the schema in original mongoDB review collection
+****************************************************************************************************
+0.0238831043243 This is the time cost for loading data from MongoDB checkin.
+Test efficiency: Loading data from mongoDB vs loading data from json file: 
+****************************************************************************************************
+This is the schema in original json review file
+****************************************************************************************************
+3.06980395317 This is the time cost for loading data from user json file.
+****************************************************************************************************
+This is the schema in original mongoDB review collection
+****************************************************************************************************
+0.542819976807 This is the time cost for loading data from MongoDB user.
+Test efficiency: Loading data from mongoDB vs loading data from json file: 
+****************************************************************************************************
+This is the schema in original json review file
+****************************************************************************************************
+0.647626876831 This is the time cost for loading data from tip json file.
+****************************************************************************************************
+This is the schema in original mongoDB review collection
+****************************************************************************************************
+0.0221350193024 This is the time cost for loading data from MongoDB tip.
